@@ -1,4 +1,4 @@
-print("Test! Hello, everybody!")
-print("Hello!")
-print("Hello, my friend!")
-print("Nice to meet you")
+print("Test! Hello, everybody;")
+print("Hello;")
+print("Hello, my friend;")
+print("Nice to meet you;")
